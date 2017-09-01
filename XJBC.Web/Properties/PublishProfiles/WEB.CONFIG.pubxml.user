@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Administrator\Desktop\123</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Article.aspx">
+      <publishTime>12/08/2016 15:20:32</publishTime>
+    </File>
+    <File Include="Articles.html">
+      <publishTime>10/31/2016 15:06:24</publishTime>
+    </File>
+    <File Include="bin/ActionlessForm.dll">
+      <publishTime>02/04/2004 18:25:02</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/16/2015 10:11:58</publishTime>
+    </File>
+    <File Include="bin/Qiniu.4.0.dll">
+      <publishTime>03/16/2015 10:02:00</publishTime>
+    </File>
+    <File Include="bin/URLRewriter.dll">
+      <publishTime>02/04/2004 18:23:40</publishTime>
+    </File>
+    <File Include="bin/XJBC.BLL.dll">
+      <publishTime>12/08/2016 15:24:28</publishTime>
+    </File>
+    <File Include="bin/XJBC.DAL.dll">
+      <publishTime>12/08/2016 15:24:28</publishTime>
+    </File>
+    <File Include="bin/XJBC.Model.dll">
+      <publishTime>12/08/2016 15:24:28</publishTime>
+    </File>
+    <File Include="bin/XJBC.Utility.dll">
+      <publishTime>12/08/2016 15:24:28</publishTime>
+    </File>
+    <File Include="bin/XJBC.Web.dll">
+      <publishTime>12/08/2016 15:24:28</publishTime>
+    </File>
+    <File Include="Edit.aspx">
+      <publishTime>12/02/2016 09:13:34</publishTime>
+    </File>
+    <File Include="Edit.html">
+      <publishTime>10/31/2016 21:52:05</publishTime>
+    </File>
+    <File Include="Error.html">
+      <publishTime>11/11/2016 15:31:26</publishTime>
+    </File>
+    <File Include="images/alipay.png">
+      <publishTime>11/10/2016 23:42:26</publishTime>
+    </File>
+    <File Include="images/cat.png">
+      <publishTime>11/11/2016 11:22:12</publishTime>
+    </File>
+    <File Include="images/favicon.ico">
+      <publishTime>11/03/2016 21:51:22</publishTime>
+    </File>
+    <File Include="images/qq.png">
+      <publishTime>11/10/2016 23:42:28</publishTime>
+    </File>
+    <File Include="images/QR-Code.png">
+      <publishTime>10/31/2016 15:06:24</publishTime>
+    </File>
+    <File Include="images/weixin.png">
+      <publishTime>11/10/2016 23:42:28</publishTime>
+    </File>
+    <File Include="Index.aspx">
+      <publishTime>12/08/2016 14:42:44</publishTime>
+    </File>
+    <File Include="Index.html">
+      <publishTime>10/31/2016 20:39:55</publishTime>
+    </File>
+    <File Include="js/hi.js">
+      <publishTime>10/31/2016 15:06:24</publishTime>
+    </File>
+    <File Include="js/jquery.min.js">
+      <publishTime>11/03/2016 21:52:20</publishTime>
+    </File>
+    <File Include="lib/css/dark.css">
+      <publishTime>10/31/2016 15:06:24</publishTime>
+    </File>
+    <File Include="lib/css/editor.css">
+      <publishTime>10/31/2016 15:06:24</publishTime>
+    </File>
+    <File Include="lib/fonts/icomoon.eot">
+      <publishTime>10/31/2016 15:06:24</publishTime>
+    </File>
+    <File Include="lib/fonts/icomoon.svg">
+      <publishTime>10/31/2016 15:06:24</publishTime>
+    </File>
+    <File Include="lib/fonts/icomoon.ttf">
+      <publishTime>10/31/2016 15:06:24</publishTime>
+    </File>
+    <File Include="lib/fonts/icomoon.woff">
+      <publishTime>10/31/2016 15:06:24</publishTime>
+    </File>
+    <File Include="lib/js/editor.js">
+      <publishTime>10/31/2016 15:06:24</publishTime>
+    </File>
+    <File Include="lib/js/highlight.js">
+      <publishTime>10/31/2016 15:06:24</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/html5shiv.js">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/main.js">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/i18n/zh_CN.js">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/jquery.plupload.queue/css/jquery.plupload.queue.css">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/jquery.plupload.queue/img/backgrounds.gif">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/jquery.plupload.queue/img/buttons-disabled.png">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/jquery.plupload.queue/img/buttons.png">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/jquery.plupload.queue/img/delete.gif">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/jquery.plupload.queue/img/done.gif">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/jquery.plupload.queue/img/error.gif">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/jquery.plupload.queue/img/throbber.gif">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/jquery.plupload.queue/img/transp50.png">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/jquery.plupload.queue/jquery.plupload.queue.js">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/jquery.plupload.queue/jquery.plupload.queue.min.js">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/jquery.ui.plupload/css/jquery.ui.plupload.css">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/jquery.ui.plupload/img/loading.gif">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/jquery.ui.plupload/img/plupload.png">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/jquery.ui.plupload/jquery.ui.plupload.js">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/jquery.ui.plupload/jquery.ui.plupload.min.js">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/moxie.js">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/moxie.min.js">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/Moxie.swf">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/Moxie.xap">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/plupload.dev.js">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/plupload.full.min.js">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/plupload/plupload.min.js">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/qiniu.min.js">
+      <publishTime>11/07/2016 14:55:58</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/Respond-1.4.2/respond.min.js">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="lib/qiniu/js/ui.js">
+      <publishTime>11/07/2016 11:44:30</publishTime>
+    </File>
+    <File Include="List.aspx">
+      <publishTime>11/03/2016 21:54:10</publishTime>
+    </File>
+    <File Include="List.html">
+      <publishTime>10/31/2016 21:51:59</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>12/08/2016 15:24:34</publishTime>
+    </File>
+    <File Include="Process/ProcessDelete.ashx">
+      <publishTime>11/02/2016 16:27:38</publishTime>
+    </File>
+    <File Include="Process/ProcessGetToken.ashx">
+      <publishTime>11/07/2016 15:16:32</publishTime>
+    </File>
+    <File Include="Process/ProcessLogin.ashx">
+      <publishTime>10/31/2016 17:06:42</publishTime>
+    </File>
+    <File Include="Process/ProcessLogout.ashx">
+      <publishTime>11/01/2016 09:45:42</publishTime>
+    </File>
+    <File Include="Process/ProcessUpdate.ashx">
+      <publishTime>10/31/2016 21:18:36</publishTime>
+    </File>
+    <File Include="style/edit.css">
+      <publishTime>10/31/2016 21:16:44</publishTime>
+    </File>
+    <File Include="style/main.css">
+      <publishTime>11/11/2016 15:32:52</publishTime>
+    </File>
+    <File Include="style/v.css">
+      <publishTime>11/11/2016 09:09:48</publishTime>
+    </File>
+    <File Include="v/index.html">
+      <publishTime>11/18/2016 11:38:10</publishTime>
+    </File>
+    <File Include="v/interface.js">
+      <publishTime>11/18/2016 09:21:02</publishTime>
+    </File>
+    <File Include="v/interface.min.js">
+      <publishTime>11/18/2016 09:21:04</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/08/2016 15:24:32</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

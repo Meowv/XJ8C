@@ -1,0 +1,12 @@
+C:\Users\QIXING\Desktop\XJBC\XJBC.Model\bin\Release\XJBC.Model.dll
+C:\Users\QIXING\Desktop\XJBC\XJBC.Model\bin\Release\XJBC.Model.pdb
+C:\Users\QIXING\Desktop\XJBC\XJBC.Model\obj\Release\XJBC.Model.dll
+C:\Users\QIXING\Desktop\XJBC\XJBC.Model\obj\Release\XJBC.Model.pdb
+C:\Users\Administrator\Desktop\XJBC\XJBC.Model\bin\Release\XJBC.Model.dll
+C:\Users\Administrator\Desktop\XJBC\XJBC.Model\bin\Release\XJBC.Model.pdb
+C:\Users\Administrator\Desktop\XJBC\XJBC.Model\obj\Release\XJBC.Model.dll
+C:\Users\Administrator\Desktop\XJBC\XJBC.Model\obj\Release\XJBC.Model.pdb
+H:\XJBC\XJBC.Model\bin\Release\XJBC.Model.dll
+H:\XJBC\XJBC.Model\bin\Release\XJBC.Model.pdb
+H:\XJBC\XJBC.Model\obj\Release\XJBC.Model.dll
+H:\XJBC\XJBC.Model\obj\Release\XJBC.Model.pdb
